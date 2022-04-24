@@ -27,14 +27,14 @@ TileSets/FantasyHex/Tiles/Grassland+Roofed Forest
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Taiga
   rotate: false
-  xy: 64,7
+  xy: 96,3
   size: 32,33
   orig: 32,33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Mountains
   rotate: false
-  xy: 96,0
+  xy: 128,0
   size: 32,36
   orig: 32,36
   offset: 0, 0
