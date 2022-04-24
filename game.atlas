@@ -4,10 +4,31 @@ size: 128,38
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-T/T
+TileSets/FantasyHex/Tiles/Grassland
   rotate: false
-  xy: 0,0
-  size: 0,0
-  orig: 0,0
+  xy: 0,8
+  size: 32,30
+  orig: 32,30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Valley
+  rotate: false
+  xy: 32,8
+  size: 32,30
+  orig: 32,30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Roofed Forest
+  rotate: false
+  xy: 64,7
+  size: 32,31
+  orig: 32,31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Mountain
+  rotate: false
+  xy: 96,0
+  size: 32,38
+  orig: 32,38
   offset: 0, 0
   index: -1
