@@ -1,12 +1,5 @@
 [
   {
-    "name": "Grassland",
-    "type": "Land",
-    "food": 2,
-    "movementCost": 1,
-    "RGB": [105,193,39]
-  },
-  {
     "name": "Valley",
     "type": "TerrainFeature",
     "occursOn": ["Grassland"],
