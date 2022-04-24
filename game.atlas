@@ -1,6 +1,6 @@
 
 game.png
-size: 128,36
+size: 160,36
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -23,6 +23,13 @@ TileSets/FantasyHex/Tiles/Grassland+Roofed Forest
   xy: 64,7
   size: 32,29
   orig: 32,29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Taiga
+  rotate: false
+  xy: 64,7
+  size: 32,33
+  orig: 32,33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Mountains
