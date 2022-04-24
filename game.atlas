@@ -25,7 +25,7 @@ TileSets/FantasyHex/Tiles/Grassland+Roofed Forest
   orig: 32,31
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Grassland+Mountain
+TileSets/FantasyHex/Tiles/Grassland+Mountains
   rotate: false
   xy: 96,0
   size: 32,38
