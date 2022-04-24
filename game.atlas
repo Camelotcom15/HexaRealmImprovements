@@ -1,0 +1,13 @@
+
+game.png
+size: 128,38
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+T/T
+  rotate: false
+  xy: 0,0
+  size: 0,0
+  orig: 0,0
+  offset: 0, 0
+  index: -1
