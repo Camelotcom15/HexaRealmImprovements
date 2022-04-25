@@ -18,7 +18,7 @@ TileSets/FantasyHex/Tiles/Grassland+Valley
   orig: 32,28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Forest
+TileSets/FantasyHex/Tiles/Grassland+Forest
   rotate: false
   xy: 64,5
   size: 32,31
@@ -65,6 +65,13 @@ TileSets/FantasyHex/Tiles/Plains+Valley
   xy: 32,47
   size: 32,29
   orig: 32,29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains+Forest
+  rotate: false
+  xy: 64,45
+  size: 32,31
+  orig: 32,31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Mountains
