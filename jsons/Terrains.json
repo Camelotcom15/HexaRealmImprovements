@@ -12,10 +12,9 @@
   {
     "name": "Roofed Forest",
     "type": "TerrainFeature",
-    "occursOn": ["Grassland","Hill","Valley"],
+    "occursOn": ["Grassland"],
     "production": 2,
     "food": 1,
-    "overrideStats": true,
     "movementCost": 2,
     "defenceBonus": 2,
     "uniques": ["Rough terrain","Neighboring tiles will convert to [Grassland]","Blocks line-of-sight from tiles at same elevation"]
@@ -23,10 +22,9 @@
   {
     "name": "Taiga",
     "type": "TerrainFeature",
-    "occursOn": ["Grassland","Hill","Valley"],
+    "occursOn": ["Grassland"],
     "production": 2,
     "gold": 1,
-    "overrideStats": true,
     "movementCost": 2,
     "defenceBonus": 2,
     "uniques": ["Rough terrain","Neighboring tiles will convert to [Grassland]","Blocks line-of-sight from tiles at same elevation"]
