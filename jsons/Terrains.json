@@ -22,7 +22,7 @@
   {
     "name": "Taiga",
     "type": "TerrainFeature",
-    "occursOn": ["Grassland"],
+    "occursOn": ["Grassland","Hill","Valley"],
     "production": 2,
     "gold": 1,
     "movementCost": 2,
