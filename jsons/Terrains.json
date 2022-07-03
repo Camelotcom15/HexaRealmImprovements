@@ -12,7 +12,7 @@
   {
     "name": "Roofed Forest",
     "type": "TerrainFeature",
-    "occursOn": ["Grassland"],
+    "occursOn": ["Grassland","Hill","Valley"],
     "production": 2,
     "food": 1,
     "movementCost": 2,
