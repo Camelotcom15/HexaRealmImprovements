@@ -1,0 +1,27 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/
+  rotate: false
+  xy: ,
+  size: ,
+  orig: ,
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/
+  rotate: false
+  xy: ,
+  size: ,
+  orig: ,
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/
+  rotate: false
+  xy: ,
+  size: ,
+  orig: ,
+  offset: 0, 0
+  index: -1
